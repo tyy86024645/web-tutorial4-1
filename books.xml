@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>活着</title>
+        <author>余华</author>
+        <price>29.90</price>
+    </book>
+    <book>
+        <title>围城</title>
+        <author>钱钟书</author>
+        <price>39.80</price>
+    </book>
+    <book>
+        <title>时间简史</title>
+        <author>斯蒂芬·霍金</author>
+        <price>59.90</price>
+    </book>
+</library>
